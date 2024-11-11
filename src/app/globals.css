@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.custom-image{
+    background-image: url("../../public/assets/cool-background.png");
+}
+.custom-image{
+    background-image: url("../../public/assets/cool-background.png")
+}
+.custom-image{
+    background-image: url("../../public/assets/cool-background.png")
+}
+.custom-image{
+    background-image: url("../../public/assets/cool-background.png")
+}
